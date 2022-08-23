@@ -14,9 +14,11 @@ The team has requested that all blog articles be listed at the top of the page, 
 
 #### Example message
 
-Theo published this article.
-
-Sequi nam placeat voluptatem eum voluptatem. Vero explicabo veritatis eos est nisi reprehenderit. Aut libero qui. Quis sapiente non rerum aliquam.
+>Theo published this article.
+>
+> Sequi nam placeat voluptatem eum voluptatem. Vero explicabo 
+> veritatis eos est nisi reprehenderit. Aut libero qui. Quis
+> sapiente non rerum aliquam.
 
 ## Categories
 
